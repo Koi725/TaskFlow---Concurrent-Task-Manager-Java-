@@ -5,7 +5,7 @@ echo "                    TASKFLOW - BUILD AUTOMATION SCRIPT"
 echo "================================================================================"
 
 SRC_DIR="src/main/java"
-TEST_SRC_DIR="src/test/java"
+TEST_SRC_DIR="src/main/java"
 BUILD_DIR="build/classes"
 TEST_BUILD_DIR="build/test-classes"
 

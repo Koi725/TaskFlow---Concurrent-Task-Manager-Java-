@@ -28,3 +28,4 @@ bin/
 dependency-reduced-pom.xml
 *.exec
 jacoco.xml
+logs.txt

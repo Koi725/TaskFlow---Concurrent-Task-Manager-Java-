@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get TaskFlow running in 2 minutes.
+Get TaskFlow running in 2 min.
 
 ---
 
@@ -101,4 +101,4 @@ Should show: `RESULTS: Passed: 3 | Failed: 0`
 
 ---
 
-Done! 🚀
+Done!
